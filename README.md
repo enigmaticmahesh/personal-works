@@ -5,9 +5,9 @@
 ### 📊 Learning Rust
 Small terminal apps using Rust to learn
 
-*   **⚡ Tech Stack:** `Rust 1.97.0`
+*   **⚡ Tech Stack:** `Rust 1.97.0` • `Cargo`
 *   **🔗 Project Anchors:** 
-    [![Source Code](Repo)]([https://github.com](https://gitlab.com/maheshtest87/learn-rust))
+    [Repo](https://gitlab.com/maheshtest87/learn-rust)
 
 ---
 
