@@ -14,9 +14,18 @@ Node.js backend built using Nest.js, TypeScript, Postgres, Valkey and ImageKit.
 ### 📊 Admin Frontend for the Ecommerce Backend
 Frontend built using React.
 
-*   **⚡ Tech Stack:** `React.js` • `TypeScript v6` • `Ky` • `Tanstack Router` • `Tanstack Table` • `Tanstack Query` • `Shadcn` • `Zustand` • `ImageKit` 
+*   **⚡ Tech Stack:** `React.js` • `TypeScript v6` • `Ky` • `Tanstack Router` • `Tanstack Table` • `Tanstack Query` • `Shadcn` • `Zustand` • `ImageKit` • `Tailwind v4` • `Vite` • `React Compiler`
 *   **🔗 Project Anchors:** 
     [Repo](https://github.com/enigmaticmahesh/order-management-admin-fe2)
+
+---
+
+### 📊 Storefront for the Ecommerce Backend
+Frontend built using React.
+
+*   **⚡ Tech Stack:** `React.js` • `TypeScript v6` • `Ky` • `Tanstack Router` • `Tanstack Table` • `Tanstack Query` • `Shadcn` • `Zustand` • `ImageKit` • `tailwind v4` • `Vite` • `React Compiler`
+*   **🔗 Project Anchors:** 
+    [Repo](https://github.com/enigmaticmahesh/customer-store-fe)
 
 ---
 
