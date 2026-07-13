@@ -11,12 +11,21 @@ Small terminal apps using Rust to learn
 
 ---
 
+### 📊 Learning FastAPI
+Small book keeping app using fastapi with postgres as primary DB and Valkey as auth DB
+
+*   **⚡ Tech Stack:** `Python` • `FastAPI` • `SQLModel` • `SQLAlchemy` • `Pydantic` • `Postgres` • `Valkey` • `Docker` • `Alembic`
+*   **🔗 Project Anchors:** 
+    [Repo](https://github.com/enigmaticmahesh/bookly)
+
+---
+
 ## 🛠️ In Progress
 
 ### 📊 Ecommerce Backend
 Node.js backend built using Nest.js, TypeScript, Postgres, Valkey and ImageKit.
 
-*   **⚡ Tech Stack:** `Node.js v22` • `Nest.js` • `TypeScript v6` • `Postgres 17` • `Docker`
+*   **⚡ Tech Stack:** `Node.js v22` • `Nest.js` • `TypeScript v6` • `Postgres 17` • `Docker` • `Drizzle`
 *   **🔗 Project Anchors:** 
     [Repo](https://github.com/enigmaticmahesh/order-management-be)
 
