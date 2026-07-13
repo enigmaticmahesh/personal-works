@@ -1,25 +1,5 @@
 # 🚀 My Project Showcase & Works
 
-## 🛠️ Currently Learning
-
-### 📊 Learning Rust
-Small terminal apps using Rust to learn
-
-*   **⚡ Tech Stack:** `Rust 1.97.0` • `Cargo`
-*   **🔗 Project Anchors:** 
-    [Repo](https://gitlab.com/maheshtest87/learn-rust)
-
----
-
-### 📊 Learning FastAPI
-Small book keeping app using fastapi with postgres as primary DB and Valkey as auth DB
-
-*   **⚡ Tech Stack:** `Python` • `FastAPI` • `SQLModel` • `SQLAlchemy` • `Pydantic` • `Postgres` • `Valkey` • `Docker` • `Alembic`
-*   **🔗 Project Anchors:** 
-    [Repo](https://github.com/enigmaticmahesh/bookly)
-
----
-
 ## 🛠️ In Progress
 
 ### 📊 Ecommerce Backend
