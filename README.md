@@ -7,7 +7,7 @@ Node.js backend built using Nest.js, TypeScript, Postgres, Valkey and ImageKit.
 
 *   **⚡ Tech Stack:** `Node.js v22` • `Nest.js` • `TypeScript v6` • `Postgres 17` • `Docker` • `Drizzle`
 *   **🔗 Project Anchors:** 
-    [Repo](https://github.com/enigmaticmahesh/order-management-be)
+    [Repo(Private)](https://github.com/enigmaticmahesh/order-management-be)
 
 ---
 
@@ -16,7 +16,7 @@ Frontend built using React.
 
 *   **⚡ Tech Stack:** `React.js` • `TypeScript v6` • `Ky` • `Tanstack Router` • `Tanstack Table` • `Tanstack Query` • `Shadcn` • `Zustand` • `ImageKit` • `Tailwind v4` • `Vite` • `React Compiler`
 *   **🔗 Project Anchors:** 
-    [Repo](https://github.com/enigmaticmahesh/order-management-admin-fe2)
+    [Repo(Private)](https://github.com/enigmaticmahesh/order-management-admin-fe2)
 
 ---
 
@@ -25,7 +25,8 @@ Frontend built using React.
 
 *   **⚡ Tech Stack:** `React.js` • `TypeScript v6` • `Ky` • `Tanstack Router` • `Tanstack Table` • `Tanstack Query` • `Shadcn` • `Zustand` • `ImageKit` • `tailwind v4` • `Vite` • `React Compiler`
 *   **🔗 Project Anchors:** 
-    [Repo](https://github.com/enigmaticmahesh/customer-store-fe)
+    [Repo(Private)](https://github.com/enigmaticmahesh/customer-store-fe)
+    [Preview](https://customer-store-fe.onrender.com)
 
 ---
 
