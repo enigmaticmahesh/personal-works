@@ -24,8 +24,9 @@ Frontend built using React.
 Frontend built using React.
 
 *   **⚡ Tech Stack:** `React.js` • `TypeScript v6` • `Ky` • `Tanstack Router` • `Tanstack Table` • `Tanstack Query` • `Shadcn` • `Zustand` • `ImageKit` • `tailwind v4` • `Vite` • `React Compiler`
-*   **🔗 Project Anchors:** 
+*   **🔗 Project Code:** 
     [Repo(Private)](https://github.com/enigmaticmahesh/customer-store-fe)
+*   **🔗 Project Preview:** 
     [Preview](https://customer-store-fe.onrender.com)
 
 ---
