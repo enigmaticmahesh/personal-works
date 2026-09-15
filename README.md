@@ -32,7 +32,7 @@ Frontend built using React.
 
 ---
 
-### 📊 Experimenting HTMX, Alpine and Django
+### 📊 Exploring HTMX, Alpine and Django
 Learning and integrating all of this to see what can I do.
 
 *   **⚡ Tech Stack:** `HTMX.js` • `Alpine.js` • `Django`
