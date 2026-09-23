@@ -29,18 +29,6 @@ Frontend built using React.
 *   **🔗 Project Preview:** 
     [Preview](https://customer-store-fe.onrender.com)
 
-
----
-
-### 📊 Exploring HTMX, Alpine and Django
-Learning and integrating all of this to see what can I do.
-
-*   **⚡ Tech Stack:** `HTMX.js` • `Alpine.js` • `Django`
-*   **🔗 Project Code:** 
-    [Repo(Private)](https://gitlab.com/maheshtest87/alpine-htmx-django)
-*   **🔗 Project Preview:** 
-    [Preview](https://alpine-htmx-django.onrender.com/)
-
 ---
 
 ## 📬 Contact
