@@ -12,7 +12,7 @@ This is a task that I got for an interview. A data analytics dashboard that quan
 *   **🔗 Project Code:** 
     [Repo](https://gitlab.com/maheshtest87/reint-interview-task)
 *   **🔗 Project Preview:** 
-    [Preview](https://reint-interview-task-2.onrender.com/)
+    [Preview](https://reint-interview-task-2.onrender.com/)  
     **NOTE:** As this is a free instance, it will be dormant. Please refresh it twice or thrice in case the data is not showing
 
 ---
