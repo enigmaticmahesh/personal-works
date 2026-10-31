@@ -3,7 +3,7 @@
 ## 🛠️ Completed
 
 ### 📊 Power purchase prediction for UK
-This is a task that I got for an interview. A data analytics dashboard that quantifies wind power forecast errors to calculate the risk-adjusted additional non-renewable power procurement needed to balance the UK grid.
+This is a task that I got for an interview. A data analytics dashboard for the month of Jan 2026 that quantifies wind power forecast errors to calculate the risk-adjusted additional non-renewable power procurement needed to balance the UK grid.
 
 *   **⚡ Tech Stack:**
     - Frontend: React, TypeScript, Vite, Tailwind CSS, Shadcn UI
